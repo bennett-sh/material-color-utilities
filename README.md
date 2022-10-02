@@ -16,7 +16,7 @@ Java        | ✅                 | *Coming soon*
 Objective-C | *Coming soon*      |
 TypeScript  | ✅                 | [![npm package](https://badgen.net/npm/v/@material/material-color-utilities)](https://npmjs.com/package/@material/material-color-utilities)
 Rust        | ✅ (unofficial)    | [![crates-io package](https://badgen.net/crates/v/material-color-utilities-rs)](https://crates.io/crates/material-color-utilities-rs)
-DotNet      | ✅ (unofficial)    | [![nuget package](https://badgen.net/nuget/v/MaterialColorUtilities)](https://www.nuget.org/packages/MaterialColorUtilities)
+C#          | ✅ (unofficial)    | [![nuget package](https://badgen.net/nuget/v/MaterialColorUtilities)](https://www.nuget.org/packages/MaterialColorUtilities)
 
 Need another platform/language? Check the
 [existing issues](https://github.com/material-foundation/material-color-utilities/labels/new%20library)
