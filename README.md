@@ -8,13 +8,15 @@ a new color space.
 
 ## Library availability
 
-Language    | Availability  | Package
------------ | ------------- | ------------------------------------------------------------------------------------------
-C/C++       | *Coming soon* |
-Dart        | ✅             | [![pub package](https://img.shields.io/pub/v/material_color_utilities.svg)](https://pub.dev/packages/material_color_utilities)
-Java        | ✅             | *Coming soon*
-Objective-C | *Coming soon* |
-TypeScript  | ✅             | [![npm package](https://badgen.net/npm/v/@material/material-color-utilities)](https://npmjs.com/package/@material/material-color-utilities)
+Language    | Availability       | Package
+----------- | ------------------ | ------------------------------------------------------------------------------------------
+C/C++       | *Coming soon*      |
+Dart        | ✅                 | [![pub package](https://img.shields.io/pub/v/material_color_utilities.svg)](https://pub.dev/packages/material_color_utilities)
+Java        | ✅                 | *Coming soon*
+Objective-C | *Coming soon*      |
+TypeScript  | ✅                 | [![npm package](https://badgen.net/npm/v/@material/material-color-utilities)](https://npmjs.com/package/@material/material-color-utilities)
+Rust        | ✅ (inofficial)    | [![crates-io package](https://badgen.net/crates/v/material-color-utilities-rs)](https://crates.io/crates/material-color-utilities-rs)
+DotNet      | ✅ (inofficial)    | [![nuget package](https://badgen.net/nuget/v/MaterialColorUtilities)](https://www.nuget.org/packages/MaterialColorUtilities)
 
 Need another platform/language? Check the
 [existing issues](https://github.com/material-foundation/material-color-utilities/labels/new%20library)
