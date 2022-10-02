@@ -1,6 +1,6 @@
-[submodule "material-color-utilities-rs"]
-	path = material-color-utilities-rs
+[submodule "rust"]
+	path = rust
 	url = https://github.com/alphaqu/material-color-utilities-rs
-[submodule "MaterialColorUtilities"]
-	path = MaterialColorUtilities
+[submodule "dotnet"]
+	path = dotnet
 	url = https://github.com/albi005/MaterialColorUtilities
